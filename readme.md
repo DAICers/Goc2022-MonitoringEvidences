@@ -5,7 +5,7 @@
 ## Source code
 
 - Blockchain data was crawled with [src/blockchain_crawler](src/blockchain_crawler) from RPC clients and stored in MariaDb
-- Analysis was done with python scripts in ...
+- Analysis was done with python scripts in [src/python_analysis](src/python_analysis)
 
 ## Results Task 9 - Find a consumer chain validator set that has not existed in the provider chain
 
