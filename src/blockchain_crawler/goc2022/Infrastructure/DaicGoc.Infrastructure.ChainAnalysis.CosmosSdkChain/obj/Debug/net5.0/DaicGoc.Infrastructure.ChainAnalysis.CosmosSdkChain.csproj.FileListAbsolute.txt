@@ -1,0 +1,15 @@
+H:\daic_goc2022\goc2022\Infrastructure\DaicGoc.Infrastructure.ChainAnalysis.CosmosSdkChain\bin\Debug\net5.0\DaicGoc.Infrastructure.ChainAnalysis.CosmosSdkChain.deps.json
+H:\daic_goc2022\goc2022\Infrastructure\DaicGoc.Infrastructure.ChainAnalysis.CosmosSdkChain\bin\Debug\net5.0\DaicGoc.Infrastructure.ChainAnalysis.CosmosSdkChain.dll
+H:\daic_goc2022\goc2022\Infrastructure\DaicGoc.Infrastructure.ChainAnalysis.CosmosSdkChain\bin\Debug\net5.0\ref\DaicGoc.Infrastructure.ChainAnalysis.CosmosSdkChain.dll
+H:\daic_goc2022\goc2022\Infrastructure\DaicGoc.Infrastructure.ChainAnalysis.CosmosSdkChain\bin\Debug\net5.0\DaicGoc.Infrastructure.ChainAnalysis.CosmosSdkChain.pdb
+H:\daic_goc2022\goc2022\Infrastructure\DaicGoc.Infrastructure.ChainAnalysis.CosmosSdkChain\bin\Debug\net5.0\DaicGoc.Domain.dll
+H:\daic_goc2022\goc2022\Infrastructure\DaicGoc.Infrastructure.ChainAnalysis.CosmosSdkChain\bin\Debug\net5.0\DaicGoc.Domain.pdb
+H:\daic_goc2022\goc2022\Infrastructure\DaicGoc.Infrastructure.ChainAnalysis.CosmosSdkChain\obj\Debug\net5.0\DaicGoc.Infrastructure.ChainAnalysis.CosmosSdkChain.csproj.AssemblyReference.cache
+H:\daic_goc2022\goc2022\Infrastructure\DaicGoc.Infrastructure.ChainAnalysis.CosmosSdkChain\obj\Debug\net5.0\DaicGoc.Infrastructure.ChainAnalysis.CosmosSdkChain.GeneratedMSBuildEditorConfig.editorconfig
+H:\daic_goc2022\goc2022\Infrastructure\DaicGoc.Infrastructure.ChainAnalysis.CosmosSdkChain\obj\Debug\net5.0\DaicGoc.Infrastructure.ChainAnalysis.CosmosSdkChain.AssemblyInfoInputs.cache
+H:\daic_goc2022\goc2022\Infrastructure\DaicGoc.Infrastructure.ChainAnalysis.CosmosSdkChain\obj\Debug\net5.0\DaicGoc.Infrastructure.ChainAnalysis.CosmosSdkChain.AssemblyInfo.cs
+H:\daic_goc2022\goc2022\Infrastructure\DaicGoc.Infrastructure.ChainAnalysis.CosmosSdkChain\obj\Debug\net5.0\DaicGoc.Infrastructure.ChainAnalysis.CosmosSdkChain.csproj.CoreCompileInputs.cache
+H:\daic_goc2022\goc2022\Infrastructure\DaicGoc.Infrastructure.ChainAnalysis.CosmosSdkChain\obj\Debug\net5.0\DaicGoc.Infrastructure.ChainAnalysis.CosmosSdkChain.csproj.CopyComplete
+H:\daic_goc2022\goc2022\Infrastructure\DaicGoc.Infrastructure.ChainAnalysis.CosmosSdkChain\obj\Debug\net5.0\DaicGoc.Infrastructure.ChainAnalysis.CosmosSdkChain.dll
+H:\daic_goc2022\goc2022\Infrastructure\DaicGoc.Infrastructure.ChainAnalysis.CosmosSdkChain\obj\Debug\net5.0\ref\DaicGoc.Infrastructure.ChainAnalysis.CosmosSdkChain.dll
+H:\daic_goc2022\goc2022\Infrastructure\DaicGoc.Infrastructure.ChainAnalysis.CosmosSdkChain\obj\Debug\net5.0\DaicGoc.Infrastructure.ChainAnalysis.CosmosSdkChain.pdb

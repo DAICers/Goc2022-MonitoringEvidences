@@ -1,0 +1,282 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\daic_goc2022\\goc2022\\Apps\\ChainImport\\Hero\\DaicGoc.Apps.ChainImport.Hero.Importer\\DaicGoc.Apps.ChainImport.Hero.Importer.csproj": {}
+  },
+  "projects": {
+    "H:\\daic_goc2022\\goc2022\\Apps\\ChainImport\\Hero\\DaicGoc.Apps.ChainImport.Hero.Importer\\DaicGoc.Apps.ChainImport.Hero.Importer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\daic_goc2022\\goc2022\\Apps\\ChainImport\\Hero\\DaicGoc.Apps.ChainImport.Hero.Importer\\DaicGoc.Apps.ChainImport.Hero.Importer.csproj",
+        "projectName": "DaicGoc.Apps.ChainImport.Hero.Importer",
+        "projectPath": "H:\\daic_goc2022\\goc2022\\Apps\\ChainImport\\Hero\\DaicGoc.Apps.ChainImport.Hero.Importer\\DaicGoc.Apps.ChainImport.Hero.Importer.csproj",
+        "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
+        "outputPath": "H:\\daic_goc2022\\goc2022\\Apps\\ChainImport\\Hero\\DaicGoc.Apps.ChainImport.Hero.Importer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "H:\\daic_goc2022\\goc2022\\Domain\\DaicGoc.Domain\\DaicGoc.Domain.csproj": {
+                "projectPath": "H:\\daic_goc2022\\goc2022\\Domain\\DaicGoc.Domain\\DaicGoc.Domain.csproj"
+              },
+              "H:\\daic_goc2022\\goc2022\\Infrastructure\\DaicGoc.Infrastructure.ChainAnalysis.CosmosSdkChain\\DaicGoc.Infrastructure.ChainAnalysis.CosmosSdkChain.csproj": {
+                "projectPath": "H:\\daic_goc2022\\goc2022\\Infrastructure\\DaicGoc.Infrastructure.ChainAnalysis.CosmosSdkChain\\DaicGoc.Infrastructure.ChainAnalysis.CosmosSdkChain.csproj"
+              },
+              "H:\\daic_goc2022\\goc2022\\Infrastructure\\DaicGoc.Infrastructure.MySql\\DaicGoc.Infrastructure.MySql.csproj": {
+                "projectPath": "H:\\daic_goc2022\\goc2022\\Infrastructure\\DaicGoc.Infrastructure.MySql\\DaicGoc.Infrastructure.MySql.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\daic_goc2022\\goc2022\\Domain\\DaicGoc.Domain\\DaicGoc.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\daic_goc2022\\goc2022\\Domain\\DaicGoc.Domain\\DaicGoc.Domain.csproj",
+        "projectName": "DaicGoc.Domain",
+        "projectPath": "H:\\daic_goc2022\\goc2022\\Domain\\DaicGoc.Domain\\DaicGoc.Domain.csproj",
+        "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
+        "outputPath": "H:\\daic_goc2022\\goc2022\\Domain\\DaicGoc.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\daic_goc2022\\goc2022\\Infrastructure\\DaicGoc.Infrastructure.ChainAnalysis.CosmosSdkChain\\DaicGoc.Infrastructure.ChainAnalysis.CosmosSdkChain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\daic_goc2022\\goc2022\\Infrastructure\\DaicGoc.Infrastructure.ChainAnalysis.CosmosSdkChain\\DaicGoc.Infrastructure.ChainAnalysis.CosmosSdkChain.csproj",
+        "projectName": "DaicGoc.Infrastructure.ChainAnalysis.CosmosSdkChain",
+        "projectPath": "H:\\daic_goc2022\\goc2022\\Infrastructure\\DaicGoc.Infrastructure.ChainAnalysis.CosmosSdkChain\\DaicGoc.Infrastructure.ChainAnalysis.CosmosSdkChain.csproj",
+        "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
+        "outputPath": "H:\\daic_goc2022\\goc2022\\Infrastructure\\DaicGoc.Infrastructure.ChainAnalysis.CosmosSdkChain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "H:\\daic_goc2022\\goc2022\\Domain\\DaicGoc.Domain\\DaicGoc.Domain.csproj": {
+                "projectPath": "H:\\daic_goc2022\\goc2022\\Domain\\DaicGoc.Domain\\DaicGoc.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\daic_goc2022\\goc2022\\Infrastructure\\DaicGoc.Infrastructure.MySql\\DaicGoc.Infrastructure.MySql.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\daic_goc2022\\goc2022\\Infrastructure\\DaicGoc.Infrastructure.MySql\\DaicGoc.Infrastructure.MySql.csproj",
+        "projectName": "DaicGoc.Infrastructure.MySql",
+        "projectPath": "H:\\daic_goc2022\\goc2022\\Infrastructure\\DaicGoc.Infrastructure.MySql\\DaicGoc.Infrastructure.MySql.csproj",
+        "packagesPath": "C:\\Users\\peter\\.nuget\\packages\\",
+        "outputPath": "H:\\daic_goc2022\\goc2022\\Infrastructure\\DaicGoc.Infrastructure.MySql\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\peter\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "H:\\daic_goc2022\\goc2022\\Domain\\DaicGoc.Domain\\DaicGoc.Domain.csproj": {
+                "projectPath": "H:\\daic_goc2022\\goc2022\\Domain\\DaicGoc.Domain\\DaicGoc.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.411\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

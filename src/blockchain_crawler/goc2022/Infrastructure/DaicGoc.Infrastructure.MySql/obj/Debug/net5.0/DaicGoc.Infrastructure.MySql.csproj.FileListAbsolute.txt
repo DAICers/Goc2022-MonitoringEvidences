@@ -1,0 +1,15 @@
+H:\daic_goc2022\goc2022\Infrastructure\DaicGoc.Infrastructure.MySql\bin\Debug\net5.0\DaicGoc.Infrastructure.MySql.deps.json
+H:\daic_goc2022\goc2022\Infrastructure\DaicGoc.Infrastructure.MySql\bin\Debug\net5.0\DaicGoc.Infrastructure.MySql.dll
+H:\daic_goc2022\goc2022\Infrastructure\DaicGoc.Infrastructure.MySql\bin\Debug\net5.0\ref\DaicGoc.Infrastructure.MySql.dll
+H:\daic_goc2022\goc2022\Infrastructure\DaicGoc.Infrastructure.MySql\bin\Debug\net5.0\DaicGoc.Infrastructure.MySql.pdb
+H:\daic_goc2022\goc2022\Infrastructure\DaicGoc.Infrastructure.MySql\bin\Debug\net5.0\DaicGoc.Domain.dll
+H:\daic_goc2022\goc2022\Infrastructure\DaicGoc.Infrastructure.MySql\bin\Debug\net5.0\DaicGoc.Domain.pdb
+H:\daic_goc2022\goc2022\Infrastructure\DaicGoc.Infrastructure.MySql\obj\Debug\net5.0\DaicGoc.Infrastructure.MySql.csproj.AssemblyReference.cache
+H:\daic_goc2022\goc2022\Infrastructure\DaicGoc.Infrastructure.MySql\obj\Debug\net5.0\DaicGoc.Infrastructure.MySql.GeneratedMSBuildEditorConfig.editorconfig
+H:\daic_goc2022\goc2022\Infrastructure\DaicGoc.Infrastructure.MySql\obj\Debug\net5.0\DaicGoc.Infrastructure.MySql.AssemblyInfoInputs.cache
+H:\daic_goc2022\goc2022\Infrastructure\DaicGoc.Infrastructure.MySql\obj\Debug\net5.0\DaicGoc.Infrastructure.MySql.AssemblyInfo.cs
+H:\daic_goc2022\goc2022\Infrastructure\DaicGoc.Infrastructure.MySql\obj\Debug\net5.0\DaicGoc.Infrastructure.MySql.csproj.CoreCompileInputs.cache
+H:\daic_goc2022\goc2022\Infrastructure\DaicGoc.Infrastructure.MySql\obj\Debug\net5.0\DaicGoc.Infrastructure.MySql.csproj.CopyComplete
+H:\daic_goc2022\goc2022\Infrastructure\DaicGoc.Infrastructure.MySql\obj\Debug\net5.0\DaicGoc.Infrastructure.MySql.dll
+H:\daic_goc2022\goc2022\Infrastructure\DaicGoc.Infrastructure.MySql\obj\Debug\net5.0\ref\DaicGoc.Infrastructure.MySql.dll
+H:\daic_goc2022\goc2022\Infrastructure\DaicGoc.Infrastructure.MySql\obj\Debug\net5.0\DaicGoc.Infrastructure.MySql.pdb
